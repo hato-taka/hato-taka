@@ -107,10 +107,10 @@ I'm a passionate software engineer with expertise in modern web technologies and
 
 ## 📫 Get In Touch
 
-- **LinkedIn**: [Your LinkedIn Profile]
-- **Email**: [your.email@example.com]
-- **Portfolio**: [Your Portfolio Website]
-- **Blog**: [Your Technical Blog]
+- **LinkedIn**: https://www.linkedin.com/in/%E7%9B%B4%E6%A8%B9-%E6%A9%8B%E6%9C%AC-5562b5257/
+- **Email**: n27hashimoto@gmail.com
+- **Portfolio**: https://daffodil-music-72a.notion.site/205732f3b9cb445f975e04cf347c8efc
+- **Blog**: https://qiita.com/hato_code
 
 ## 🌍 Languages
 
