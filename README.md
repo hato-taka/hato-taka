@@ -7,24 +7,40 @@ I'm a passionate software engineer with expertise in modern web technologies and
 ## 🛠️ Tech Stack
 
 ### Frontend
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white&style=flat)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
+![jQuery](https://img.shields.io/badge/-jQuery-0769AD?logo=jquery&logoColor=white&style=flat)
+![MUI](https://img.shields.io/badge/-MUI-007FFF?logo=mui&logoColor=white&style=flat)
+![Jest](https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white&style=flat)
 
 ### Backend
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
+![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=flat)
 ![Java](https://img.shields.io/badge/-Java-ED8B00?logo=java&logoColor=white&style=flat)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
 
-### DevOps & Tools
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
+### Infrastructure & DevOps
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
-![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?logo=github-actions&logoColor=white&style=flat)
+![On-Premises](https://img.shields.io/badge/-On--Premises-FF6B6B?logo=server&logoColor=white&style=flat)
+
+### CMS & No-Code Tools
+![WordPress](https://img.shields.io/badge/-WordPress-21759B?logo=wordpress&logoColor=white&style=flat)
+![Squad Beyond](https://img.shields.io/badge/-Squad_Beyond-00D4AA?logo=code&logoColor=white&style=flat)
+
+### Design & Creative Tools
+![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?logo=adobe-photoshop&logoColor=white&style=flat)
+![Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?logo=adobe-illustrator&logoColor=white&style=flat)
+![After Effects](https://img.shields.io/badge/-After_Effects-9999FF?logo=adobe-after-effects&logoColor=white&style=flat)
+
+### Project Management & Collaboration
+![Notion](https://img.shields.io/badge/-Notion-000000?logo=notion&logoColor=white&style=flat)
+![JIRA](https://img.shields.io/badge/-JIRA-0052CC?logo=jira&logoColor=white&style=flat)
+![Miro](https://img.shields.io/badge/-Miro-050038?logo=miro&logoColor=white&style=flat)
+![Draw.io](https://img.shields.io/badge/-Draw.io-F08705?logo=diagrams.net&logoColor=white&style=flat)
 
 ## 📊 GitHub Stats
 
@@ -39,6 +55,15 @@ I'm a passionate software engineer with expertise in modern web technologies and
 - 🌱 **Cloud Architecture** - Learning advanced AWS services and infrastructure as code
 - 🚀 **Performance Optimization** - Improving application speed and user experience
 - 🔒 **Security Best Practices** - Implementing secure coding standards and authentication systems
+
+## 🏗️ Development Process & Project Management
+
+- 📋 **Requirements Definition** - Gathering and analyzing business requirements
+- 🎨 **System Design** - Creating detailed design documents, API specifications, and sequence diagrams
+- 📊 **Project Planning** - Developing WBS and test plans
+- 🧪 **Testing & Quality Assurance** - Creating test specifications and conducting thorough testing
+- 👥 **Code Review & Collaboration** - Leading peer code reviews and fostering team collaboration
+- 🔄 **Continuous Improvement** - Facilitating retrospectives and implementing process improvements
 
 ## 💼 Professional Experience
 
@@ -56,10 +81,22 @@ I'm a passionate software engineer with expertise in modern web technologies and
 
 ## 🎓 Education & Certifications
 
-- **Bachelor's in Computer Science** - [University Name]
-- **AWS Certified Developer** - Associate Level
-- **Certified Scrum Master** (CSM)
-- **Various online courses** in modern web technologies
+### Education
+- **Keio University** - Faculty of Economics (2011-2017)
+  - Exchange Program: University of Cologne, Germany (2012-2013)
+- **Takatsuki High School** - Graduated (2008-2011)
+
+### Technical Certifications
+- **Applied Information Technology Engineer** - October 2023
+- **AWS Certified Cloud Practitioner** - April 2024
+- **Java Silver** - February 2024
+
+### Language & Academic Certifications
+- **EIKEN (English Proficiency Test) Pre-1st Grade** - October 2021
+- **Mathematics Proficiency Test Pre-1st Grade** - December 2021
+
+### Other Qualifications
+- **Driver's License** - December 2012
 
 ## 🤝 Looking to Collaborate On
 
@@ -78,8 +115,8 @@ I'm a passionate software engineer with expertise in modern web technologies and
 ## 🌍 Languages
 
 - **Japanese** (Native)
-- **English** (Professional working proficiency)
-- **Spanish** (Basic)
+- **English** (Business English - EIKEN Pre-1st Grade equivalent)
+- **German** (Conversational - German Language Proficiency Test Level 2, 1 year study abroad experience)
 
 ## ⚡ Fun Facts
 
